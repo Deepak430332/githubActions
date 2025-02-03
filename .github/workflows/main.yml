@@ -3,7 +3,7 @@ name: My Custom Action
 on: 
   push:
     branches:
-      - main # Change it to your default branch
+      - main # Change it to your default branch for usecase
 
 jobs:
   test:
